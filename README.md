@@ -1,0 +1,1 @@
+# gikApp-react-native-full-app
